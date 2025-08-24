@@ -13,13 +13,13 @@
 <!--Intro start-->
 🔭 Actualmente estoy trabajando con HTML, CSS, JavaScript y proyectos web personales
 
-🌱 Estoy aprendiendo React, Node.js y para crear aplicaciones escalables.
+🌱 Estoy aprendiendo React, para crear aplicaciones escalables.
 
 📝 Estoy desarrollando proyectos prácticos y también comparto mis avances en programación.
 
-💬 Pregúntame sobre JavaScript, React, HTML, CSS
+💬 Pregúntame sobre JavaScript, HTML, CSS
 
-📫 Puedes contactarme en [klxudiocode@gmail.com]
+📫 Puedes contactarme en klxudiocode@gmail.com
 <!--Intro end-->
 
 
@@ -67,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,js,vscode,kubernetes&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,js,vscode,=14"/>
   </a>
 </p>
 
