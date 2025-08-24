@@ -13,13 +13,11 @@
 <!--Intro start-->
 🔭 Actualmente estoy trabajando con HTML, CSS, JavaScript y proyectos web personales
 
-🌱 Estoy aprendiendo React, Node.js y desarrollo full stack para crear aplicaciones escalables.
-
-☁️ Me interesa mucho la computación en la nube, especialmente AWS.
+🌱 Estoy aprendiendo React, Node.js y para crear aplicaciones escalables.
 
 📝 Estoy desarrollando proyectos prácticos y también comparto mis avances en programación.
 
-💬 Pregúntame sobre JavaScript, React, Node.js, MongoDB, HTML, CSS
+💬 Pregúntame sobre JavaScript, React, HTML, CSS
 
 📫 Puedes contactarme en [klxudiocode@gmail.com]
 <!--Intro end-->
