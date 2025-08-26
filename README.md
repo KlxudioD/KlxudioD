@@ -9,7 +9,7 @@
 </div>
 
 <!--Intro start-->
-<p>
+<p align="center"> 
 🔭 Actualmente trabajo con <strong>HTML, CSS, JavaScript</strong> en proyectos web personales.<br/>
 🌱 Aprendiendo <strong>React</strong> para crear aplicaciones escalables.<br/>
 📝 Desarrollando proyectos prácticos y compartiendo avances en programación.<br/>
@@ -33,14 +33,6 @@
   <!-- Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klxudioD&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Lenguajes más usados por klxudioD"/>
 </p>
-
-<p align="center">
-  <!-- Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=klxudioD&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</p>
-<!--- stats (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
