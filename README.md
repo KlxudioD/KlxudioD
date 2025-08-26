@@ -26,15 +26,15 @@
       <td width="50%" align="center">
         
         <!-- Estadísticas generales -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=klxudioD&theme=dark&show_icons=true&count_private=true" alt="GitHub stats de klxudioD"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=klxudioD&show_icons=true&theme=dark&count_private=true" alt="GitHub stats de klxudioD"/>
         <br/>
         <!-- Racha de commits -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Racha de commits" src="https://github-readme-streak-stats.herokuapp.com/?user=klxudioD&theme=dark&hide_border=false"/>
+        <img align="center" src="https://streak-stats.demolab.com?user=klxudioD&theme=dark&hide_border=false" alt="Racha de commits"/>
       </td>
 
       <td width="50%" align="center">
         <!-- Lenguajes más usados -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klxudioD&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Lenguajes más usados por klxudioD"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klxudioD&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Lenguajes más usados por klxudioD"/>
       </td>
     </tr>
   </table>
@@ -80,5 +80,6 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
 
 
