@@ -20,7 +20,6 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
@@ -38,7 +37,6 @@
       </td>
     </tr>
   </table>
-  <!--- stats (end) -->
 
   <!--- trophy (start) -->
   <div align="center">
@@ -65,7 +63,6 @@
 </p>
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Contáctame 🤝</h2></summary>
@@ -80,6 +77,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
 
 
 
